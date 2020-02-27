@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eeae1838022f3df4da68d7c794025362, type: 3}
+  m_Name: NEnemy4
+  m_EditorClassIdentifier: 
+  path: {fileID: 5575735063732727545, guid: 5a219dfe7c2d6bc43bb9e56f125e226c, type: 3}
+  reverse: 0
+  reverseLoop: 0
+  coolDown: 1.2
+  startDelay: 0
+  endDelay: 0
+  enemies:
+  - {fileID: 8882851268972961216, guid: 3c4cda3e6aaebe640bde139d1e21b3ab, type: 3}
+  - {fileID: 8882851268972961216, guid: 3c4cda3e6aaebe640bde139d1e21b3ab, type: 3}
+  - {fileID: 8882851268972961216, guid: 3c4cda3e6aaebe640bde139d1e21b3ab, type: 3}
+  - {fileID: 8882851268972961216, guid: 3c4cda3e6aaebe640bde139d1e21b3ab, type: 3}

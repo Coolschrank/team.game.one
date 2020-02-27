@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eeae1838022f3df4da68d7c794025362, type: 3}
+  m_Name: SEnemy2
+  m_EditorClassIdentifier: 
+  path: {fileID: 2705973695490030593, guid: fa69625d97e43c846baacb816d66e949, type: 3}
+  reverse: 0
+  reverseLoop: 0
+  coolDown: 1
+  startDelay: 0
+  endDelay: 1
+  enemies:
+  - {fileID: 7140611499032559578, guid: 78aee4fc095e8c644ac405bba3d643e5, type: 3}
+  - {fileID: 7140611499032559578, guid: 78aee4fc095e8c644ac405bba3d643e5, type: 3}
